@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+⚡ Fun fact: I'm trying to learn norwegian during my free time
+
 <!--
 **fabioctetsuo/fabioctetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
