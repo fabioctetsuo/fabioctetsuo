@@ -1,10 +1,14 @@
 ### Hey there 👋
 
-![Illustration of my little cat and I, with a text in the left side saying "Hey there, I'm Fabio Tetsuo" and "Frontend Developer and Content Creator"](https://user-images.githubusercontent.com/44013819/105862825-fe57ca00-5fce-11eb-970b-83e9d1730c6e.png)
+![Illustration of my little cat and I, with a text in the left side saying "Hey there, I'm Fabio Tetsuo" and "Frontend Developer and Content Creator"](https://user-images.githubusercontent.com/44013819/105864289-8ab6bc80-5fd0-11eb-9f5d-a47642dee57c.png)
+
 
 I'm passionate about front-end development, especially about tests! I already worked with a few javascript libs and frameworks, but React is my favorite one. I also love to learn new things, not only tech things... 😄
 I'm currently trying to learn norwegian during my free time, improve some musical skills and I really love to spend some time cooking for my family.
 
+- 🔭 I’m currently working on RaiaDrogasil
+- 📫 You can find me on [Twitch](https://www.twitch.tv/mobprogramming) or in my [fabiotetsuo.com](https://www.fabiotetsuo.com)
+- 💬 Ask me about frontend stuff and some other things like health life or cooking.
 <!--
 **fabioctetsuo/fabioctetsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
